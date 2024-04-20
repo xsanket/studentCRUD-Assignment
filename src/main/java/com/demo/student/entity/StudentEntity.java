@@ -1,11 +1,8 @@
 package com.demo.student.entity;
 
-import lombok.Data;
-
 import javax.persistence.*;
 
 @Entity
-@Data
 @Table(name = "student")
 public class StudentEntity {
 

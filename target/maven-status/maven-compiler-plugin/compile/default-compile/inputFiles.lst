@@ -1,7 +1,7 @@
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\controller\EmployeeController.java
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\repository\EmployeeRepository.java
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\model\Employee.java
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\services\EmployeeService.java
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\EmployeeSystemApiApplication.java
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\entity\EmployeeEntity.java
-C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\employee\services\EmployeeServiceImpl.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\repository\StudentRepository.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\model\Student.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\services\StudentServiceImpl.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\entity\StudentEntity.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\StudentSystemApiApplication.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\controller\StudentController.java
+C:\Users\sanket\Desktop\New folder (2)\EMPLOYEE-CRUD-RESOTECH-ASSIGNMENT-main\Student-CRUD\src\main\java\com\demo\student\services\StudentService.java
